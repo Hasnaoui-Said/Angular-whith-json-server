@@ -1,0 +1,14 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "label": "Learn JS",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "label": "Learn SpringBoot",
+      "completed": true
+    }
+  ]
+}
