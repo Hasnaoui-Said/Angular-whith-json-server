@@ -3,12 +3,32 @@
     {
       "id": 1,
       "label": "Learn JS",
-      "completed": false
+      "completed": true
     },
     {
       "id": 2,
       "label": "Learn SpringBoot",
       "completed": true
+    },
+    {
+      "label": "Learn PHP",
+      "completed": true,
+      "id": 3
+    },
+    {
+      "label": "Learn TS",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "label": "Learn HTML",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "label": "Ahmed",
+      "completed": true,
+      "id": 6
     }
   ]
 }

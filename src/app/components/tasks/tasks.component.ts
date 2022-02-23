@@ -36,7 +36,7 @@ export class TasksComponent implements OnInit {
   persist(){
     this.tastServirce.persist(this.myTask)
                       .subscribe((task)=>{
-                        this.tasks = [task, ...this.tasks];
+                        this.resulttasks = [task, ...this.tasks];
                         this.ressetTask();
                         this.showForm = !this.showForm;
                       });
